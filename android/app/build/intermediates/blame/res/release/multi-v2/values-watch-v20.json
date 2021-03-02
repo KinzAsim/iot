@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rtl/Kinza Asim/Projects/notification-app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/rtl/.gradle/caches/transforms-2/files-2.1/664f56f0a206bf602336cd8b73d5a560/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
